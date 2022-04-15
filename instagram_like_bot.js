@@ -1,7 +1,6 @@
 var count = 0;
 
 setInterval(function() {
-
     var heart = document.querySelector('button.coreSpriteHeartOpen');
     var next = document.querySelector('a.coreSpriteRightPaginationArrow');
     if(heart) {
